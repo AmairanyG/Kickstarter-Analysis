@@ -18,3 +18,6 @@
 -	Created line chart that graphs the relationship between a goal’s amount, and it chances of success.
 
 ![GoalAnalysis](Images/GoalOutcomes.PNG)
+
+
+### Key Tools: Excel - vlookups, index/match, conditional formatting, filtering, pivot tables/charts
