@@ -1,4 +1,4 @@
-# Kickstart Analysis
+# Kickstarter Campaigns Analysis
 
 - Organized and analyzed a database of 4,000 past Kickstarter projects utilizing Excel to uncovered market trends.
 -	Used conditional formatting to differentiate a columns color depending on whether the associated campaign was successful, failed, canceled, or if it’s currently live.
